@@ -79,6 +79,4 @@ Ionicon
 
 ``` css
 --transition-1: 250ms ease;
---transition-2: 500ms ease;
-```
-Delete style-guide.md
+--transition-2: 500ms ease
