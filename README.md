@@ -8,7 +8,7 @@
 
 ## 🖼️ Website Preview
 
-![E-Shopee Master Screenshot](./assets/website-preview.png)
+![E-Shopee Master Screenshot](./readme-images/desktop.png)
 
 > Replace the image path with your actual image location. You can also use an external image URL if you're hosting the image elsewhere (e.g., on Imgur or your site).
 
