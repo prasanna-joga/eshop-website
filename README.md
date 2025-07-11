@@ -25,14 +25,6 @@
 - **Frontend**: React, HTML, CSS, JavaScript
 - **Deployment**: Vercel / Netlify / Render / Heroku
 
-## 📸 Screenshots
-
-You can also add multiple screenshots like:
-
-![Homepage](./assets/homepage.png)
-![Product Page](./assets/product-page.png)
-![Cart Page](./assets/cart.png)
-
 ---
 
 ## 📁 Folder Structure (Optional)
